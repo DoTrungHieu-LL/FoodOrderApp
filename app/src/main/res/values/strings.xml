@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <string name="login">Đăng nhập</string>
+    <string name="intro_2">Nơi tuyệt vời để tận hưởng bia lạnh,\n cocktail đỉnh và những đêm không thể quên.</string>
+    <string name="signup">Đăng kí</string>
+    <string name="App_name">Hangover Haven</string>
+</resources>

@@ -1,0 +1,15 @@
+<!-- res/drawable/black_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Màu nền -->
+    <solid android:color="#FFE4B5" />
+
+    <!-- Bo góc với bán kính 8dp -->
+    <corners android:radius="8dp" />
+
+    <!-- Padding xung quanh nội dung -->
+    <padding
+        android:left="8dp"
+        android:top="8dp"
+        android:right="8dp"
+        android:bottom="8dp" />
+</shape>
